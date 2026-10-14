@@ -1,9 +1,6 @@
 <p align="center" width=300>
-  <img align="center" width=300 src="<img width="1181" height="1772" alt="Fotos de carnet 1" src="https://github.com/user-attachments/assets/3d5b63e6-c099-404e-9c3f-fafa1eb594da" />
-<img width="1181" height="1772" alt="Fotos de carnet 1" src="https://github.com/user-attachments/assets/52b53b41-358a-4e8b-85a4-72ddb797ddd6" />
-">
+  <img align="center" width="300" height="300" alt="Fotos de carnet 1" src="https://github.com/user-attachments/assets/3d5b63e6-c099-404e-9c3f-fafa1eb594da" />
  <h3 align="center" width=200>Bienvendos a mi portfolio de GitHub, me llamo Jesús David García Santana</h3>
-  
 </p>
 
 
