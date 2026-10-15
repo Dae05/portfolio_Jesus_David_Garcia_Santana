@@ -12,7 +12,7 @@ coger experiencia en el ámbito de informática.</p>
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 #### Frontend
 <p>
@@ -44,18 +44,20 @@ coger experiencia en el ámbito de informática.</p>
 
 ---
 
-#### 📂 Proyectos Destacados
+#### Formación
 
+Título de Bachillerato(2019-2021)
+Grado de Ingenieria Informática (2021-2025) -- en progreso
+Ciclo de Grado de Formación Profesional (2025-2027) -- en progreso
 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
 
-Aquí puedes ver mi actividad global en la plataforma:
 
-![Estadísticas de GitHub](https://vercel.app)
-![Lenguajes más usados](https://vercel.app)
+### Experencia
+
+
 
 ---
 
