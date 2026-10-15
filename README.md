@@ -46,22 +46,20 @@ coger experiencia en el ámbito de informática.</p>
 
 #### Formación
 
-Título de Bachillerato(2019-2021)
-Grado de Ingenieria Informática (2021-2025) -- en progreso
-Ciclo de Grado de Formación Profesional (2025-2027) -- en progreso
-
+Título de Bachillerato - IES José Frugoni Pérez (2019-2021)
+Grado de Ingeniería Informática - Universidad de las Palmas de Gran Canaria (2021-2025) -- titulación aún en progreso
+Ciclo de Grado de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma en (2025-2027) -- titulación aún en progreso
 
 ---
 
 
-
 ### Experencia
 
-
+Práctica de empresas en Avant Innovación y Desarrollo (2026)
 
 ---
 
 ### 🤝 Conectemos
 * 💼 **LinkedIn:** [/in/tu-perfil](https://linkedin.com)
-* 📧 **Email:** [tu-correo@email.com](mailto:tu-correo@email.com)
+* 📧 **Email:** jd.garciasantana@gmail.com
 * 🌐 **Portafolio Web:** [tuweb.com](https://tuweb.com)
