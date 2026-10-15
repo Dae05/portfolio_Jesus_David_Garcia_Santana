@@ -1,37 +1,46 @@
 <p align="center" width=300>
-  <img align="center" width="300" height="300" alt="Fotos de carnet 1" src="https://github.com/user-attachments/assets/3d5b63e6-c099-404e-9c3f-fafa1eb594da" />
+  <img align="center" width="300" height="200" alt="Fotos de carnet 1" src="https://github.com/user-attachments/assets/3d5b63e6-c099-404e-9c3f-fafa1eb594da" />
  <h3 align="center" width=200>Bienvendos a mi portfolio de GitHub, me llamo Jesús David García Santana</h3>
 </p>
 
 
-### 🚀 Desarrollador Full Stack (Frontend & Backend)
-Me apasiona construir aplicaciones web completas, escalables y con una gran experiencia de usuario. Disfruto tanto diseñando interfaces limpias en el Frontend como estructurando arquitecturas sólidas y bases de datos en el Backend.
-
-- 🌍 Basado en: **[Tu Ciudad/País]**
-- 💼 Actualmente buscando oportunidades como: **[Junior / Mid / Senior Developer]**
-- 🌱 Actualmente aprendiendo: **[Tecnología que estés estudiando ahora, ej: Next.js, Docker, AWS...]**
+### Developer Junior de Aplicaciones Multiplataformas
+<p>  Programador de aplicaciones multiplataformas especializado en varios lenguajes de
+programación, adaptado varias situaciones y constante si me lo propongo, me interesa poder
+trabajar en el ámbito orientado a programación, pero cualquier cosa me sirve para aprender y
+coger experiencia en el ámbito de informática.</p>
 
 ---
 
 ### 🛠️ Mi Stack Tecnológico
 
-#### 🎨 Frontend
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![TailwindCSS](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+#### Frontend
+<p>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://shields.io/badge/HTML-white?logo=html5&style=for-the-badge" alt="html5" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-CSS-000?logo=CSS" alt=css3 width="40" height="40"/>
+</p>
+
+#### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-C-lightpink?style=for-the-badge&logo=c&logoColor=black" alt="C" width="40" height="40"/>
+</p>
 
 #### ⚙️ Backend & Bases de Datos
-![NodeJS](https://shields.io)
-![Express](https://shields.io)
+![Java](https://shields.io)
+![Python](https://shields.io)
+![C]
 ![PostgreSQL](https://shields.io)
 ![MongoDB](https://shields.io)
 
 #### 🧰 Herramientas & DevOps
 ![Git](https://shields.io)
 ![Docker](https://shields.io)
-![Postman](https://shields.io)
+![FileZilla](https://shields.io)
+![AWS](https://shields.io)
 
 ---
 
