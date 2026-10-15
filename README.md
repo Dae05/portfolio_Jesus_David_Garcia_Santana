@@ -1,4 +1,4 @@
-<p align="center" width=300>
+<<p align="center" width=300>
   <img align="center" width="300" height="200" alt="Fotos de carnet 1" src="https://github.com/user-attachments/assets/3d5b63e6-c099-404e-9c3f-fafa1eb594da" />
  <h3 align="center" width=200>Bienvendos a mi portfolio de GitHub, me llamo Jesús David García Santana</h3>
 </p>
@@ -46,16 +46,16 @@ coger experiencia en el ámbito de informática.</p>
 
 #### Formación
 
-Título de Bachillerato - IES José Frugoni Pérez (2019-2021)
-Grado de Ingeniería Informática - Universidad de las Palmas de Gran Canaria (2021-2025) -- titulación aún en progreso
-Ciclo de Grado de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma en (2025-2027) -- titulación aún en progreso
+<p>Título de Bachillerato - IES José Frugoni Pérez (2019-2021)</p>
+<p>Grado de Ingeniería Informática - Universidad de las Palmas de Gran Canaria (2021-2025) -- Titulación aún en progreso</p>
+<p>Ciclo de Grado de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma en (2025-2027) -- Titulación aún en progreso</p>
 
 ---
 
 
 ### Experencia
 
-Práctica de empresas en Avant Innovación y Desarrollo (2026)
+<p>Práctica de empresas en Avant Innovación y Desarrollo (2026)</p>
 
 ---
 
