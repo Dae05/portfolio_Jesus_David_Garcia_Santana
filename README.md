@@ -22,40 +22,31 @@ coger experiencia en el ámbito de informática.</p>
     <img src="https://img.shields.io/badge/-CSS-000?logo=CSS" alt=css3 width="40" height="40"/>
 </p>
 
-#### Backend
+#### Backend & Bases de Datos
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="40" height="40"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="40" height="40"/>
   <img src="https://img.shields.io/badge/-C-lightpink?style=for-the-badge&logo=c&logoColor=black" alt="C" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="40" height="40"/>
+  
 </p>
 
-#### ⚙️ Backend & Bases de Datos
-![Java](https://shields.io)
-![Python](https://shields.io)
-![C]
-![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
 
-#### 🧰 Herramientas & DevOps
-![Git](https://shields.io)
-![Docker](https://shields.io)
-![FileZilla](https://shields.io)
-![AWS](https://shields.io)
+#### Herramientas & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="40" height="40"/>
+  <img alt="git" width="40" height="40"/>
+  <img alt="git" width="40" height="40"/>
+  <img alt="git" width="40" height="40"/>
+</p>
 
 ---
 
-### 📂 Proyectos Destacados
+#### 📂 Proyectos Destacados
 
-#### 🎯 1. [Nombre de tu mejor Proyecto Full Stack]
-* **Descripción:** Una aplicación completa de [E-commerce / Red Social / Gestión de Tareas] que permite a los usuarios [mencionar la función principal].
-* **Frontend:** React, Tailwind CSS, Redux Toolkit.
-* **Backend:** Node.js, Express, MongoDB, autenticación JWT.
-* **🔗 Links:** [Ver Código (Repositorio)](https://github.com) | [Ver Demo en Vivo](https://tu-demo.com)
 
-#### 💻 2. [Nombre de otro Proyecto Frontend o Backend]
-* **Descripción:** API RESTful robusta para [explicar brevemente el propósito de la API] o [interfaz interactiva para X cosa].
-* **Stack:** TypeScript, PostgreSQL, Express, Jest (para testing).
-* **🔗 Links:** [Ver Código (Repositorio)](https://github.com-2)
 
 ---
 
