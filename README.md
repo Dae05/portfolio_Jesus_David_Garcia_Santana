@@ -60,6 +60,6 @@ coger experiencia en el ámbito de informática.</p>
 ---
 
 ### Información de contacto
-* 💼 **LinkedIn:** [/in/tu-perfil](https://linkedin.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/david-garcia-819214402
 * 📧 **Email:** jd.garciasantana@gmail.com
 * 🌐 **Portafolio Web:** [tuweb.com](https://tuweb.com)
