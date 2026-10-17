@@ -1,5 +1,6 @@
+
 <p align="center" width=300>
-  <img align="center" width="300" height="200" alt="Fotos de carnet 1" src="https://github.com/user-attachments/assets/3d5b63e6-c099-404e-9c3f-fafa1eb594da" />
+  <img align="center" width="300" height="200" alt="Fotos de carnet " src="https://github.com/user-attachments/assets/d3d4811f-7139-4c8a-8228-07d3c7d7e637" />
  <h3 align="center" width=200>Bienvendos a mi portfolio de GitHub, me llamo Jesús David García Santana</h3>
 </p>
 
