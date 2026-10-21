@@ -46,8 +46,8 @@ coger experiencia en el ámbito de informática.</p>
 ### Formación
 
 <p><b>Título de Bachillerato</b> - IES José Frugoni Pérez (2019-2021)</p>
-<p><b>Grado de Ingeniería Informática</b> - Universidad de las Palmas de Gran Canaria (2021-2025) -- Titulación aún en progreso</p>
-<p><b>Ciclo de Grado de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma</b> - IES La Herradura (2025-2027) -- Titulación aún en progreso</p>
+<p><b>Grado de Ingeniería Informática</b> - Universidad de las Palmas de Gran Canaria (2021-2025) -- Titulación pendiente de finalización</p>
+<p><b>Ciclo de Grado de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma</b> - IES La Herradura (2025-2027) -- Titulación en progreso</p>
 
 ---
 
